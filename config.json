@@ -1,6 +1,6 @@
 {
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "message": "Welcome to Download Hub!",
     "color": "green"
   },
