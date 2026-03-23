@@ -142,5 +142,14 @@
     "fileType": "HTML",
     "description": "From my buds at Diesmos.",
     "asset": "Diesmos.html"
+  },
+  {
+    "id": "lebron-games",
+    "tag": "ZIP",
+    "name": "Lebron Games",
+    "version": "1.0",
+    "fileType": "ZIP",
+    "description": "Games",
+    "asset": "Lebron-games.zip"
   }
 ]
