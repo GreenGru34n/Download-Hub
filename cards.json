@@ -169,5 +169,14 @@
     "fileType": "HTML",
     "description": "FINALLY have proxys working in a browser locally executed via HTML. \nYour typical proxy, with games, but in a file.",
     "asset": "DogeUB_PROXY.html"
+  },
+  {
+    "id": "utopia-proxy",
+    "tag": "HTML",
+    "name": "Utopia PROXY",
+    "version": "1.0",
+    "fileType": "HTML",
+    "description": "Cool proxy in a file",
+    "asset": "Utopia_PROXY.html"
   }
 ]
