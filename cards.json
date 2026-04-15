@@ -205,5 +205,14 @@
     "fileType": "HTML",
     "description": "PizzaEdition kinda buggy",
     "asset": "PizzaEdition.html"
+  },
+  {
+    "id": "unlockedzone",
+    "tag": "TOOL",
+    "name": "unlockedzone",
+    "version": "5.0",
+    "fileType": "HTML",
+    "description": "Proxy + Games + Apps, pretty goated",
+    "asset": "unblockzone v5.html"
   }
 ]
